@@ -1,0 +1,33 @@
+C:\Users\user\source\repos\RuleCall Bot\RuleCall Bot\bin\x86\Release\RuleCall Bot.dll.config
+C:\Users\user\source\repos\RuleCall Bot\RuleCall Bot\bin\x86\Release\RuleCall Bot.dll
+C:\Users\user\source\repos\RuleCall Bot\RuleCall Bot\bin\x86\Release\RuleCall Bot.pdb
+C:\Users\user\source\repos\RuleCall Bot\RuleCall Bot\bin\x86\Release\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\user\source\repos\RuleCall Bot\RuleCall Bot\bin\x86\Release\Newtonsoft.Json.dll
+C:\Users\user\source\repos\RuleCall Bot\RuleCall Bot\bin\x86\Release\NLog.dll
+C:\Users\user\source\repos\RuleCall Bot\RuleCall Bot\bin\x86\Release\RestSharp.dll
+C:\Users\user\source\repos\RuleCall Bot\RuleCall Bot\bin\x86\Release\RPAHiveLibV2.dll
+C:\Users\user\source\repos\RuleCall Bot\RuleCall Bot\bin\x86\Release\System.Buffers.dll
+C:\Users\user\source\repos\RuleCall Bot\RuleCall Bot\bin\x86\Release\System.Memory.dll
+C:\Users\user\source\repos\RuleCall Bot\RuleCall Bot\bin\x86\Release\System.Numerics.Vectors.dll
+C:\Users\user\source\repos\RuleCall Bot\RuleCall Bot\bin\x86\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\user\source\repos\RuleCall Bot\RuleCall Bot\bin\x86\Release\System.Text.Encodings.Web.dll
+C:\Users\user\source\repos\RuleCall Bot\RuleCall Bot\bin\x86\Release\System.Text.Json.dll
+C:\Users\user\source\repos\RuleCall Bot\RuleCall Bot\bin\x86\Release\System.Threading.Tasks.Extensions.dll
+C:\Users\user\source\repos\RuleCall Bot\RuleCall Bot\bin\x86\Release\System.ValueTuple.dll
+C:\Users\user\source\repos\RuleCall Bot\RuleCall Bot\bin\x86\Release\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\user\source\repos\RuleCall Bot\RuleCall Bot\bin\x86\Release\Newtonsoft.Json.pdb
+C:\Users\user\source\repos\RuleCall Bot\RuleCall Bot\bin\x86\Release\Newtonsoft.Json.xml
+C:\Users\user\source\repos\RuleCall Bot\RuleCall Bot\bin\x86\Release\NLog.xml
+C:\Users\user\source\repos\RuleCall Bot\RuleCall Bot\bin\x86\Release\RestSharp.xml
+C:\Users\user\source\repos\RuleCall Bot\RuleCall Bot\bin\x86\Release\System.Buffers.xml
+C:\Users\user\source\repos\RuleCall Bot\RuleCall Bot\bin\x86\Release\System.Memory.xml
+C:\Users\user\source\repos\RuleCall Bot\RuleCall Bot\bin\x86\Release\System.Numerics.Vectors.xml
+C:\Users\user\source\repos\RuleCall Bot\RuleCall Bot\bin\x86\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\user\source\repos\RuleCall Bot\RuleCall Bot\bin\x86\Release\System.Text.Encodings.Web.xml
+C:\Users\user\source\repos\RuleCall Bot\RuleCall Bot\bin\x86\Release\System.Text.Json.xml
+C:\Users\user\source\repos\RuleCall Bot\RuleCall Bot\bin\x86\Release\System.Threading.Tasks.Extensions.xml
+C:\Users\user\source\repos\RuleCall Bot\RuleCall Bot\bin\x86\Release\System.ValueTuple.xml
+C:\Users\user\source\repos\RuleCall Bot\RuleCall Bot\obj\x86\Release\RuleCall Bot.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\RuleCall Bot\RuleCall Bot\obj\x86\Release\RuleCall Bot.csproj.CopyComplete
+C:\Users\user\source\repos\RuleCall Bot\RuleCall Bot\obj\x86\Release\RuleCall Bot.dll
+C:\Users\user\source\repos\RuleCall Bot\RuleCall Bot\obj\x86\Release\RuleCall Bot.pdb
